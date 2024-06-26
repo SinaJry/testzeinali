@@ -10,10 +10,6 @@ import requests
 
 
 
-TOKEN = '7296359363:AAFFfQVljwkrbfPlPopGWNrJuqC5-weOugA'
-BOT_USERNAME = 'jjobir_bot'
-CHANNEL_ID = '-1002158342532'
-AUTHORIZED_USER_ID = 5846289303
 
  # Replace with your channel username or ID
 
